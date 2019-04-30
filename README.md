@@ -1,7 +1,5 @@
 # sql_join_lecture
 
-## Simple Queries
-
 ### Soccer Tables
 
 #### Game Table
